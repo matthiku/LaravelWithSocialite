@@ -1,5 +1,5 @@
-# Laravel Socialite in Action!
+## Laravel Socialite in Action!
 
-## Sample, educational TaskManager App based on Laravel 5.1 with the built-in local and Socialite authorization fully implemented.
+### Sample, educational TaskManager App based on Laravel 5.1 with the built-in local and Socialite authorization fully implemented.
 
-![screenshot]()
+![screenshot](https://github.com/matthiku/LaravelWithSocialite/blob/master/screenshot.png)
